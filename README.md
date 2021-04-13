@@ -1,6 +1,6 @@
 # Disney Movie Data Visualization
 Project for course COM-480 Data Visualization. 
-# Milestone 1 (Friday 3rd April, 5pm)
+## Milestone 1 (Friday 23rd April, 5pm)
 10% of the final grade
 This is a preliminary milestone to let you set up goals for your final project and
 assess the feasibility of your ideas. Please, fill the following sections about your
