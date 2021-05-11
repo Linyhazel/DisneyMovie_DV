@@ -1,0 +1,31 @@
+,title,Running time,Budget,Box office,Release date,imdb,metascore,rotten_tomatoes,Directed by,Produced by,Music by,Distributed by,score
+0,WALL-E,97.0,180000000.0,533300000.0,2008-06-23,8.4,95.0,95%,Andrew Stanton,Jim Morris,Thomas Newman,Walt Disney Studios Motion Pictures,89.5
+1,Toy Story,81.0,30000000.0,373600000.0,1995-11-19,8.3,95.0,100%,John Lasseter,"['Bonnie Arnold', 'Ralph Guggenheim']",Randy Newman,Buena Vista Pictures Distribution,89.0
+2,Ratatouille,111.0,150000000.0,620700000.0,2007-06-22,8.0,96.0,96%,Brad Bird,Brad Lewis,Michael Giacchino,Buena Vista Pictures Distribution,88.0
+3,Inside Out,94.0,175000000.0,858000000.0,2015-05-18,8.1,94.0,98%,Pete Docter,Jonas Rivera,Michael Giacchino,"['Walt Disney Studios', 'Motion Pictures']",87.5
+4,Beauty and the Beast,129.0,160000000.0,1264000000.0,2017-02-23,8.0,95.0,94%,Bill Condon,"['David Hoberman', 'Todd Lieberman']",Alan Menken,"['Walt Disney Studios', 'Motion Pictures']",87.5
+5,Toy Story 3,103.0,200000000.0,1067000000.0,2010-06-12,8.3,92.0,98%,Lee Unkrich,Darla K. Anderson,Randy Newman,"['Walt Disney Studios', 'Motion Pictures']",87.5
+6,Beauty and the Beast,84.0,25000000.0,440100000.0,1991-09-29,8.0,95.0,94%,"['Gary Trousdale', 'Kirk Wise']",Don Hahn,Alan Menken,Buena Vista Pictures,87.5
+7,Fantasia,126.0,2280000.0,83300000.0,1940-11-13,7.8,96.0,95%,"['Samuel Armstrong', 'James Algar', 'Bill Roberts', 'Paul Satterfield', 'Ben Sharpsteen', 'David D. Hand', 'Hamilton Luske', 'Jim Handley', 'Ford Beebe', 'T. Hee', 'Norman Ferguson', 'Wilfred Jackson']","['Walt Disney', 'Ben Sharpsteen']",See program,"['Walt Disney Productions', 'RKO Radio Pictures']",87.0
+8,Pinocchio,88.0,2600000.0,164000000.0,1940-02-07,7.4,99.0,100%,"['Ben Sharpsteen', 'Hamilton Luske', 'Bill Roberts', 'Norman Ferguson', 'Jack Kinney', 'Wilfred Jackson', 'T. Hee']",Walt Disney,"['Leigh Harline', 'Paul J. Smith']",RKO Radio Pictures,86.5
+9,The Lion King,118.0,250000000.0,1657000000.0,2019-07-09,8.5,88.0,93%,Jon Favreau,"['Jon Favreau', 'Jeffrey Silver', 'Karen Gilchrist']",Hans Zimmer,"['Walt Disney Studios', 'Motion Pictures']",86.5
+10,The Lion King,88.0,45000000.0,968500000.0,1994-06-15,8.5,88.0,93%,"['Roger Allers', 'Rob Minkoff']",Don Hahn,Hans Zimmer,Buena Vista Pictures,86.5
+11,Finding Nemo,100.0,94000000.0,940300000.0,2003-05-30,8.1,90.0,99%,Andrew Stanton,Graham Walters,Thomas Newman,Buena Vista Pictures Distribution,85.5
+12,Up,96.0,175000000.0,735100000.0,2009-05-29,8.2,88.0,98%,Pete Docter,Jonas Rivera,Michael Giacchino,"['Walt Disney Studios', 'Motion Pictures']",85.0
+13,Dumbo,112.0,170000000.0,353300000.0,2019-03-11,7.2,96.0,98%,Tim Burton,"['Justin Springer', 'Ehren Kruger', 'Katterli Frauenfelder', 'Derek Frey']",Danny Elfman,"['Walt Disney Studios', 'Motion Pictures']",84.0
+14,Dumbo,64.0,950000.0,1300000.0,1941-10-23,7.2,96.0,98%,"['Supervising director:', 'Ben Sharpsteen', 'Sequence directors:', 'Norman Ferguson', 'Wilfred Jackson', 'Bill Roberts', 'Jack Kinney', 'Samuel Armstrong']",Walt Disney,"['Frank Churchill', 'Oliver Wallace']",RKO Radio Pictures,84.0
+15,Toy Story 2,92.0,90000000.0,497400000.0,1999-11-13,7.9,88.0,100%,John Lasseter,"['Helene Plotkin', 'Karen Robert Jackson']",Randy Newman,Buena Vista Pictures Distribution,83.5
+16,Mary Poppins,139.0,4400000.0,103100000.0,1964-08-27,7.8,88.0,100%,Robert Stevenson,Walt Disney,"['Richard M. Sherman (songs)', 'Robert B. Sherman (songs)', 'Irwin Kostal (score)']",Buena Vista Distribution,83.0
+17,Aladdin,90.0,28000000.0,504100000.0,1992-11-25,8.0,86.0,95%,"['John Musker', 'Ron Clements']","['John Musker', 'Ron Clements']",Alan Menken,Buena Vista Pictures,83.0
+18,Coco,105.0,175000000.0,807100000.0,2017-10-20,8.4,81.0,97%,Lee Unkrich,Darla K. Anderson,Michael Giacchino,"['Walt Disney Studios', 'Motion Pictures']",82.5
+19,Bambi,70.0,858000.0,267400000.0,1942-08-09,7.3,91.0,90%,"['Supervising director', 'David Hand', 'Sequence directors', 'James Algar', 'Samuel Armstrong', 'Graham Heid', 'Bill Roberts', 'Paul Satterfield', 'Norman Wright']",Walt Disney,"['Frank Churchill', 'Edward H. Plumb']",RKO Radio Pictures,82.0
+20,The Nightmare Before Christmas,76.0,18000000.0,89100000.0,1993-10-29,8.0,82.0,95%,Henry Selick,"['Tim Burton', 'Denise Di Novi']",Danny Elfman,Buena Vista Pictures Distribution,81.0
+21,Toy Story 4,100.0,200000000.0,1073000000.0,2019-06-11,7.8,84.0,97%,Josh Cooley,"['Mark Nielsen', 'Jonas Rivera']",Randy Newman,"['Walt Disney Studios', 'Motion Pictures']",81.0
+22,"Monsters, Inc.",92.0,115000000.0,577400000.0,2001-10-28,8.0,79.0,96%,Pete Docter,Darla K. Anderson,Randy Newman,Buena Vista Pictures Distribution,79.5
+23,Zootopia,108.0,150000000.0,1024000000.0,2016-02-13,8.0,78.0,98%,"['Byron Howard', 'Rich Moore']",Clark Spencer,Michael Giacchino,"['Walt Disney Studios', 'Motion Pictures']",79.0
+24,Moana,107.0,150000000.0,690800000.0,2016-11-14,7.6,81.0,95%,"['Ron Clements', 'John Musker']",Osnat Shurer,"['Mark Mancina', 'Lin-Manuel Miranda', ""Opetaia Foa'i""]","['Walt Disney Studios', 'Motion Pictures']",78.5
+25,Sleeping Beauty,75.0,6000000.0,51600000.0,1959-01-29,7.2,85.0,89%,"['Clyde Geronimi (supervising)', 'Eric Larson', 'Wolfgang Reitherman', 'Les Clark']",Walt Disney,George Bruns (adapted from Tchaikovsky's Sleeping Beauty Ballet ),Buena Vista Distribution,78.5
+26,Incredibles 2,118.0,200000000.0,1243000000.0,2018-06-05,7.6,80.0,93%,Brad Bird,"['John Walker', 'Nicole Paradis Grindle']",Michael Giacchino,"['Walt Disney Studios', 'Motion Pictures']",78.0
+27,Arrietty,95.0,23000000.0,146000000.0,2010-07-17,7.6,80.0,95%,Hiromasa Yonebayashi,Toshio Suzuki,Cécile Corbel,Toho,78.0
+28,One Hundred and One Dalmatians,79.0,3600000.0,303000000.0,1961-01-25,7.2,83.0,98%,"['Clyde Geronimi', 'Hamilton Luske', 'Wolfgang Reitherman']",Walt Disney,George Bruns,Buena Vista Pictures Distribution,77.5
+29,"20,000 Leagues Under the Sea",127.0,5000000.0,28200000.0,1954-12-23,7.2,83.0,89%,Richard Fleischer,Walt Disney,"['Paul Smith', 'Joseph S. Dubin', '(orchestration)']",Buena Vista Distribution,77.5
